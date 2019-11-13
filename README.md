@@ -1,4 +1,6 @@
 # hello-world
 Hello World Tutorial
 
-This is Stephanie. I am completeing this for an assignment in C# programming.
+
+Hello this is Stephanie. I am completing this tutorial for an assigment in C# programming.
+
